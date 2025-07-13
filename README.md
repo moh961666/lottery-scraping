@@ -33,7 +33,7 @@ Open the notebook:
 
 jupyter notebook loto.ipynb
 
-# Run the cells to:
+ Run the cells to:
 
 Scrape results for a draw number (e.g., scrape_draw_results(2000))
 
